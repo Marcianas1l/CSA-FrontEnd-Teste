@@ -1,13 +1,13 @@
-# CSA- - Teste :white_check_mark:
+# CSA - Teste :white_check_mark:
 
 ## Requisitos
 
-Você precisará das seguintes aplicações para executar o projeto:
+Você precisará dos seguintes plugins para executar o projeto:
 
-| Aplicação | Comando |
+| Plugin | Comando |
 | --- | --- |
 | Live Sass   | install live-sass|
-| Live Server | $ npm install -g live-server |
+| Live Server | install live-server |
 
 Ferramenta utilizada: Visual Studio Code
 
