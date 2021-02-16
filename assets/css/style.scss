@@ -1,0 +1,123 @@
+@import 'partials/colors';
+@import 'partials/lista';
+@import 'partials/background';
+@import 'partials/formulario';
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Segoe UI", "Roboto", sans-serif;
+    color: $cinza5;
+}
+
+.section-tabex {
+    width: 100%;
+    height: 100%;
+    height: 100vh;
+}
+
+header {
+    width: 100%;
+    height: 8%;
+    height: 8vh;
+    background: $azul-escuro;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    .logo {
+        width: 52px;
+        height: 42px;
+    }
+
+    .header-right {
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+
+        img {
+            width: 12px;
+            height: 11px;
+        }
+        .user-config {
+            margin-right: 10px;
+        }
+        
+    }
+    .opcao {
+        width: 12px;
+        height: 11px;
+    }
+}
+
+.container-tabex {
+    width: 100%;
+    display: flex;
+    height: 94%;
+    height: 94vh;
+    overflow:hidden;
+}
+
+aside {
+    width: 6%;
+    min-width: 54px;
+    background: $azul-escuro;
+
+    div {
+       width: 100%;
+       height: 33px;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       border-bottom: 1px solid $cinza4;
+
+       img {
+           width: 14px;
+           height: 12px;
+       }
+    }
+}
+
+main {
+    max-width: 1230px;
+    width: 100%;
+    margin: 20px auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    overflow-y: scroll;
+}
+
+.menu-tabex {
+    width: 100%;
+    height: 30px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    background: $cinza1;
+    border: 1px solid #E2E2E2;
+    box-shadow: 4px 3px 6px $cinza2;
+}
+
+.conteudo-contract {
+    width: 100%;
+    background: $cinza1;
+    border: 1px solid #E2E2E2;
+    box-shadow: 4px 3px 6px $cinza2;
+    padding: 20px;
+}
+
+.bg-azul-claro {
+    background-color: #E1EDF6;
+}
+
+@font-face {
+    font-family: "Segoe";
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local("./assets/fonts/segoeui.ttf"), format("opentype");
+}
