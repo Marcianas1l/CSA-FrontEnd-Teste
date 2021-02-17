@@ -26,6 +26,9 @@ Ferramenta utilizada: Visual Studio Code
 * [OWL CAROUSEL] - https://owlcarousel2.github.io/OwlCarousel2/
 
 
+### O resultado:
+![CSA](assets/Designer/20210216_205715.gif)
+
 Para visualizar a página publicada: 
 
 
