@@ -4,9 +4,9 @@
 
 - Realizar a criação de 2 páginas e 1 modal com navegação e efeitos JS (hover, transition, etc...)
 
-List – View.png
-Form.png
-Modal.png
+ - - List – View.png<br>
+ - - Form.png<br>
+ - - Modal.png
  
 - O Candidato pode Colocar informações estáticas. Estamos interessados no código HTML, CSS e JS (JQUERY)
 
@@ -25,8 +25,6 @@ Você precisará dos seguintes plugins para executar o projeto:
 | Plugin | Comando |
 | --- | --- |
 | Live Server | install live-server |
-
-Ferramenta utilizada: Visual Studio Code
 
 
 # Processo de Execução
