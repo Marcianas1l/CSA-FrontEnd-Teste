@@ -51,7 +51,7 @@ Nota: Nem todas as funcionalidas das páginas foram desenvolvidas pois foquei no
 
 # Processo de Execução:
 
-* Faça a instalação do VsCode. Caso você não tenha pode fazer o download clicando aqui: https://code.visualstudio.com/
+* Faça a instalação do VsCode. Você pode fazer o download clicando aqui: https://code.visualstudio.com/
 * Com o VsCode já instalado, faça o download do plugin (Live Server). 
   ** Você pode fazer isso de duas formas: 
      *** A primeira seria através desse link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
