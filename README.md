@@ -53,10 +53,10 @@ Nota: Nem todas as funcionalidas das páginas foram desenvolvidas pois foquei no
 
 * Faça a instalação do VsCode. Você pode fazer o download clicando aqui: https://code.visualstudio.com/
 * Com o VsCode já instalado, faça o download do plugin (Live Server). 
-  ** Você pode fazer isso de duas formas: 
-     *** A primeira seria através desse link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-     *** A segunda seria digitando “Live Server” diretamente no VSCode.
-*** Ligando o servidor:
+  - - Você pode fazer isso de duas formas: 
+      -- A primeira seria através desse link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+      -- A segunda seria digitando “Live Server” diretamente no VSCode.
+* Ligando o servidor:
      ** Após a instalação e o reload do VSCode, a extensão (Live Server) criará um atalho na barra de status (Barra inferior, lado direito do VsCode) para ligar e desligar em um clique
      ** Clique em Go Live e execute o projeto.
 
